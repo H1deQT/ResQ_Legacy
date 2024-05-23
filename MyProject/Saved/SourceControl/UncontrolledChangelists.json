@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/CapstoneProject/ResQ_Legacy/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/CapstoneProject/ResQ_Legacy/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/ZP/O58QM19QCEFEGYXSWANR9P.uasset",
+				"D:/CapstoneProject/ResQ_Legacy/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/88/9LZ5NQ7DHG0V15YMAYADH2.uasset"
+			]
+		}
+	]
+}
